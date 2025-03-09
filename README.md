@@ -23,8 +23,8 @@ A flexible Python crawler designed to extract product listings from any eBay sto
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MlataIbrahim/ebay_store_crawler
-   cd ebay_store_crawler
+   git clone https://github.com/MlataIbrahim/ebay_scraper
+   cd ebay_scraper
    ```
 
 2. Install the required dependencies:
