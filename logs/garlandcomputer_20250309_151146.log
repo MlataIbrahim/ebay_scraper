@@ -1,0 +1,118 @@
+2025-03-09 15:11:46,948 - EbayCrawler_garlandcomputer - INFO - Initialized crawler for store: garlandcomputer
+2025-03-09 15:11:46,948 - EbayCrawler_garlandcomputer - INFO - Data will be saved to: data/garlandcomputer
+2025-03-09 15:11:46,949 - EbayCrawler_garlandcomputer - INFO - Starting crawl of store 'garlandcomputer' with condition filter: None
+2025-03-09 15:11:46,949 - EbayCrawler_garlandcomputer - INFO - Processing page 1
+2025-03-09 15:11:46,949 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/garlandcomputer/m.html
+2025-03-09 15:11:49,258 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:49,282 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:49,331 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=2
+2025-03-09 15:11:49,332 - EbayCrawler_garlandcomputer - INFO - Extracted 61 new items from page 1
+2025-03-09 15:11:49,332 - EbayCrawler_garlandcomputer - INFO - Processing page 2
+2025-03-09 15:11:49,333 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=2
+2025-03-09 15:11:51,281 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:51,313 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:51,353 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=3
+2025-03-09 15:11:51,355 - EbayCrawler_garlandcomputer - INFO - Extracted 57 new items from page 2
+2025-03-09 15:11:51,355 - EbayCrawler_garlandcomputer - INFO - Processing page 3
+2025-03-09 15:11:51,355 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=3
+2025-03-09 15:11:53,206 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:53,230 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:53,273 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=4
+2025-03-09 15:11:53,275 - EbayCrawler_garlandcomputer - INFO - Extracted 52 new items from page 3
+2025-03-09 15:11:53,275 - EbayCrawler_garlandcomputer - INFO - Processing page 4
+2025-03-09 15:11:53,275 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=4
+2025-03-09 15:11:55,119 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:55,142 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:55,179 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=5
+2025-03-09 15:11:55,180 - EbayCrawler_garlandcomputer - INFO - Extracted 48 new items from page 4
+2025-03-09 15:11:55,180 - EbayCrawler_garlandcomputer - INFO - Processing page 5
+2025-03-09 15:11:55,180 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=5
+2025-03-09 15:11:56,873 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:56,896 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:56,932 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=6
+2025-03-09 15:11:56,934 - EbayCrawler_garlandcomputer - INFO - Extracted 44 new items from page 5
+2025-03-09 15:11:56,934 - EbayCrawler_garlandcomputer - INFO - Processing page 6
+2025-03-09 15:11:56,934 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=6
+2025-03-09 15:11:59,038 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:11:59,062 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:11:59,098 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=7
+2025-03-09 15:11:59,100 - EbayCrawler_garlandcomputer - INFO - Extracted 47 new items from page 6
+2025-03-09 15:11:59,100 - EbayCrawler_garlandcomputer - INFO - Processing page 7
+2025-03-09 15:11:59,100 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=7
+2025-03-09 15:12:00,824 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:00,847 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:00,883 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=8
+2025-03-09 15:12:00,884 - EbayCrawler_garlandcomputer - INFO - Extracted 45 new items from page 7
+2025-03-09 15:12:00,884 - EbayCrawler_garlandcomputer - INFO - Processing page 8
+2025-03-09 15:12:00,884 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=8
+2025-03-09 15:12:02,623 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:02,646 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:02,683 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=9
+2025-03-09 15:12:02,684 - EbayCrawler_garlandcomputer - INFO - Extracted 45 new items from page 8
+2025-03-09 15:12:02,684 - EbayCrawler_garlandcomputer - INFO - Processing page 9
+2025-03-09 15:12:02,684 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=9
+2025-03-09 15:12:04,472 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:04,496 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:04,533 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=10
+2025-03-09 15:12:04,535 - EbayCrawler_garlandcomputer - INFO - Extracted 48 new items from page 9
+2025-03-09 15:12:04,535 - EbayCrawler_garlandcomputer - INFO - Processing page 10
+2025-03-09 15:12:04,535 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=10
+2025-03-09 15:12:06,342 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:06,365 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:06,401 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=11
+2025-03-09 15:12:06,403 - EbayCrawler_garlandcomputer - INFO - Extracted 42 new items from page 10
+2025-03-09 15:12:06,403 - EbayCrawler_garlandcomputer - INFO - Processing page 11
+2025-03-09 15:12:06,403 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=11
+2025-03-09 15:12:08,344 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:08,367 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:08,402 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=12
+2025-03-09 15:12:08,404 - EbayCrawler_garlandcomputer - INFO - Extracted 39 new items from page 11
+2025-03-09 15:12:08,404 - EbayCrawler_garlandcomputer - INFO - Processing page 12
+2025-03-09 15:12:08,405 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=12
+2025-03-09 15:12:10,762 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:10,785 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:10,824 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=13
+2025-03-09 15:12:10,825 - EbayCrawler_garlandcomputer - INFO - Extracted 39 new items from page 12
+2025-03-09 15:12:10,826 - EbayCrawler_garlandcomputer - INFO - Processing page 13
+2025-03-09 15:12:10,826 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=13
+2025-03-09 15:12:12,690 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:12,712 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:12,751 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=14
+2025-03-09 15:12:12,753 - EbayCrawler_garlandcomputer - INFO - Extracted 43 new items from page 13
+2025-03-09 15:12:12,753 - EbayCrawler_garlandcomputer - INFO - Processing page 14
+2025-03-09 15:12:12,753 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=14
+2025-03-09 15:12:14,427 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:14,449 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:14,484 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=15
+2025-03-09 15:12:14,486 - EbayCrawler_garlandcomputer - INFO - Extracted 47 new items from page 14
+2025-03-09 15:12:14,486 - EbayCrawler_garlandcomputer - INFO - Processing page 15
+2025-03-09 15:12:14,486 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=15
+2025-03-09 15:12:16,321 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:16,344 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:16,381 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=16
+2025-03-09 15:12:16,383 - EbayCrawler_garlandcomputer - INFO - Extracted 44 new items from page 15
+2025-03-09 15:12:16,383 - EbayCrawler_garlandcomputer - INFO - Processing page 16
+2025-03-09 15:12:16,383 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=16
+2025-03-09 15:12:18,443 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:18,465 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:18,505 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=17
+2025-03-09 15:12:18,507 - EbayCrawler_garlandcomputer - INFO - Extracted 39 new items from page 16
+2025-03-09 15:12:18,507 - EbayCrawler_garlandcomputer - INFO - Processing page 17
+2025-03-09 15:12:18,507 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=17
+2025-03-09 15:12:20,286 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:20,308 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:20,345 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=18
+2025-03-09 15:12:20,347 - EbayCrawler_garlandcomputer - INFO - Extracted 49 new items from page 17
+2025-03-09 15:12:20,347 - EbayCrawler_garlandcomputer - INFO - Processing page 18
+2025-03-09 15:12:20,347 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=18
+2025-03-09 15:12:22,154 - EbayCrawler_garlandcomputer - INFO - Found 62 items on page
+2025-03-09 15:12:22,176 - EbayCrawler_garlandcomputer - INFO - Saving 62 items
+2025-03-09 15:12:22,215 - EbayCrawler_garlandcomputer - INFO - Found next page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=19
+2025-03-09 15:12:22,217 - EbayCrawler_garlandcomputer - INFO - Extracted 57 new items from page 18
+2025-03-09 15:12:22,217 - EbayCrawler_garlandcomputer - INFO - Processing page 19
+2025-03-09 15:12:22,217 - EbayCrawler_garlandcomputer - INFO - Processing page: https://www.ebay.com/sch/i.html?_ssn=garlandcomputer&_pgn=19
+2025-03-09 15:12:23,765 - EbayCrawler_garlandcomputer - INFO - Found 42 items on page
+2025-03-09 15:12:23,781 - EbayCrawler_garlandcomputer - INFO - Saving 42 items
+2025-03-09 15:12:23,809 - EbayCrawler_garlandcomputer - INFO - No more pages to process
+2025-03-09 15:12:23,811 - EbayCrawler_garlandcomputer - INFO - Extracted 24 new items from page 19
+2025-03-09 15:12:23,811 - EbayCrawler_garlandcomputer - INFO - Crawl completed for store 'garlandcomputer'. Processed 19 pages with 870 total items.
